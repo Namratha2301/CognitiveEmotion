@@ -121,7 +121,7 @@ XGBoost
 
 <tr>
 <td>
-8
+7
 </td>
 <td>
 GRU
