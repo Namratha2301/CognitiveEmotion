@@ -130,7 +130,7 @@ GRU
 TensorFlow
 </td>
 <td>
-95.46
+95.46%
 </td>
 </tr>
 </table>
